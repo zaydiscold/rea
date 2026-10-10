@@ -1,5 +1,15 @@
 # Changelog
 
+## [6.4.0](https://github.com/morluto/rea/compare/rea-agents-6.3.0...rea-agents-6.4.0) (2026-10-10)
+
+
+### Bug Fixes
+
+* **browser:** classify selected web trace file failures by cause ([#1396](https://github.com/morluto/rea/issues/1396)) ([2b6e9ec](https://github.com/morluto/rea/commit/2b6e9ec03f88abb0799a4d154e48544ff4685a41))
+* **cli:** accept JSON files for web capture and screenshot comparisons ([#1397](https://github.com/morluto/rea/issues/1397)) ([6875d4a](https://github.com/morluto/rea/commit/6875d4a64c0d77c4f90ebbec36705f191eb7cdc6))
+* **cli:** stop advertising multi-letter single-dash option aliases ([#1395](https://github.com/morluto/rea/issues/1395)) ([498cec0](https://github.com/morluto/rea/commit/498cec042a5f05557ae9c2ef9663d41dd03901c3))
+* **javascript:** handle oversized inline source maps ([#1386](https://github.com/morluto/rea/issues/1386)) ([5fc4d79](https://github.com/morluto/rea/commit/5fc4d792caeb3cd81c2021e45a158c5127906c56))
+
 ## [6.3.0](https://github.com/morluto/rea/compare/rea-agents-6.2.0...rea-agents-6.3.0) (2026-10-09)
 
 
